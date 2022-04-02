@@ -1,0 +1,12 @@
+.score-container {
+    display: block;
+    text-align: center;
+}
+
+h2 {
+    display: inline;
+}
+
+.buttons {
+    text-align: center;
+}
